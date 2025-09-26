@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "282787594167",
+    "project_id": "sibejo-rescue",
+    "storage_bucket": "sibejo-rescue.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:282787594167:android:53a2b04d33b3e41b3a7232",
+        "android_client_info": {
+          "package_name": "id.sibejo.sibejo_rescue"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDSUv3yXgm6aLn_52oRrwlQxRUeUTz3MHA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
